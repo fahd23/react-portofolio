@@ -9,9 +9,9 @@ import Image from "next/image";
 import fahdpic from "../public/dev-ed-wave.png";
 import code from "../public/code.png";
 import design from "../public/design.png";
-import project1 from "../public/project1.png";
-import project2 from "../public/project2.png";
-import project3 from "../public/project3.png";
+import project1 from "../public/Project1.png";
+import project2 from "../public/Project2.png";
+import project3 from "../public/Project3.png";
 import { useState } from "react";
 
 export default function Home() {
