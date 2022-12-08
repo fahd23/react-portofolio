@@ -21,7 +21,7 @@ export default function Home() {
       <Head>
         <title>Fahd Portofolio</title>
         <meta name="description" content="Fahd S.N Portfolio" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <main className=" bg-white px-10 md:px-20 lg:px-72 dark:bg-gray-900">
