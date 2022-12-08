@@ -20,7 +20,7 @@ export default function Home() {
     <div className={darkMode ? "dark" : ""}>
       <Head>
         <title>Fahd Portofolio</title>
-        <meta name="description" content="Fahd's Portofolio" />
+        <meta name="description" content="Fahd S.N Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
